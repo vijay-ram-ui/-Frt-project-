@@ -8,8 +8,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
 PROJECT DEMO URL:https://vijay-ram-ui.github.io/-Frt-project-/
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
-
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/vijay-ram-ui/-Frt-project-/
 
 
 
@@ -82,7 +81,7 @@ EduWell is my project that is done as also called an online course, is any cours
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  Vengalrao
 
 
 # Privacy Policies 
