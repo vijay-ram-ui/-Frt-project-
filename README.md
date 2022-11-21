@@ -4,7 +4,7 @@
 
 AZURE LINK : https://jolly-island-08a49a400.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK :
 
 PROJECT DEMO URL:https://vijay-ram-ui.github.io/-Frt-project-/
 
