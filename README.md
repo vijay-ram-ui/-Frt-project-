@@ -62,20 +62,22 @@ EduWell is my project that is done as also called an online course, is any cours
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+![Azure](https://user-images.githubusercontent.com/94039041/203129679-711cef73-ac2b-4781-87b7-af4fd8d49631.png)
+
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+![Github actions](https://user-images.githubusercontent.com/94039041/203129644-cd8f49ed-2b97-4e61-824a-fa095d750602.png)
+
 
 # Project WorkFlow
+![workflow](https://user-images.githubusercontent.com/94039041/203129557-624eb3f5-cb81-41da-9219-cb5932b20b4c.png)
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+![web capture](https://user-images.githubusercontent.com/94039041/203128952-0a193527-8f55-4abe-b73f-f2bbe7e1f759.png)
+
 
 
 # About Us
