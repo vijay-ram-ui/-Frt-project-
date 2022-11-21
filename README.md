@@ -12,8 +12,8 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/vijay-ram-ui/-Frt-project-/
 
 
 
+Farming Company is my Project.In this the people can get the plants through our website for their farming and our we can provide a advanced themes to planting so our website is very useful to the people and it will take less time while planting.
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
 
 # Features
 -  Good UI
