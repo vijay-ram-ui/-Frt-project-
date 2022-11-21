@@ -87,6 +87,5 @@ i am BTech pursuing Students,from 3rd year i considered this as problem as we fa
 
 
 # Privacy Policies 
-[
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
-](https://www.freeprivacypolicy.com/live/1a7a1db0-cec6-476b-82f3-f2ede8e0362b)
+https://www.freeprivacypolicy.com/live/fa1967fa-5425-4f3c-ac35-1d15339ac32d
+
